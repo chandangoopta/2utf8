@@ -6,7 +6,7 @@ convert to utf-8! the pdf document is encoded in traditional font layout to be c
 
 	$ ./main.sh sample.txt
 
-* Note Terminal output may not look pretty
+###### Note: *Terminal output may not look pretty*
 	
 #### Quick Test
      
